@@ -1,0 +1,10 @@
+@font-face {
+	font-family: "Krabuler";
+	src: url("fonts/TTF/RF Krabuler Regular.ttf");
+	font-weight: normal;
+}
+
+body {
+	margin: 0;
+	font-family: "Trebuchet MS";
+}
